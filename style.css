@@ -3,3 +3,13 @@
   min-height: 60dvh;
   background-size: cover;
 }
+
+.newsreader {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 3px black;
+}
